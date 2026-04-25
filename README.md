@@ -49,8 +49,8 @@ This is my personal portfolio website - a single-page application showcasing my 
 
 ```
 vishwa-portfolio/
-├── index.html          # Main portfolio (single page)
-├── Hero Image.jpeg     # Profile photo (add your own)
+├── index.html          # Main portfolio 
+├── Hero Image.jpeg     # Profile photo 
 ├── README.md           # This file
 └── LICENSE             # MIT License
 ```
@@ -62,8 +62,8 @@ vishwa-portfolio/
 No build step needed. Just clone and open:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vishwa-portfolio.git
-cd vishwa-portfolio
+git clone https://github.com/YOUR_USERNAME/portfolio.git
+cd portfolio
 # Open index.html in your browser
 ```
 
@@ -78,14 +78,14 @@ Or use VS Code Live Server for hot reload.
 | **Email** | vishwava25072003@gmail.com |
 | **Phone** | +353 089 966 5446 |
 | **Location** | Dublin, Ireland |
-| **LinkedIn** | [LINKEDIN](https://www.linkedin.com/in/vishwa2003/) |
+| **LinkedIn** | [LinkedIn profile](https://www.linkedin.com/in/vishwa2003/) |
 
 ---
 
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).  
-Feel free to use it as inspiration — but please don't copy it directly as your own.
+Feel free to use it as inspiration - but please don't copy it directly as your own.
 
 ---
 
