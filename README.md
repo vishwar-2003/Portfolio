@@ -12,7 +12,6 @@
 ## 🌐 Live Site
 
 **[Portfolio](https://portfolio-vishwa2003.vercel.app/)**  
-*(Replace with your actual Vercel URL)*
 
 ---
 
