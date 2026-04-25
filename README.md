@@ -11,7 +11,7 @@
 
 ## 🌐 Live Site
 
-**[vishwa-portfolio.vercel.app](https://portfolio-vishwa2003.vercel.app/)**  
+**[Portfolio](https://portfolio-vishwa2003.vercel.app/)**  
 *(Replace with your actual Vercel URL)*
 
 ---
@@ -79,7 +79,7 @@ Or use VS Code Live Server for hot reload.
 | **Email** | vishwava25072003@gmail.com |
 | **Phone** | +353 089 966 5446 |
 | **Location** | Dublin, Ireland |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vishwa2003/) |
+| **LinkedIn** | [LINKEDIN](https://www.linkedin.com/in/vishwa2003/) |
 
 ---
 
