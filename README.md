@@ -1,4 +1,4 @@
-# 🧠 Vishwa R — Personal Portfolio
+# 🧠 Vishwa R - Personal Portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live-Visit%20Portfolio-brightgreen?style=for-the-badge&logo=vercel)](https://vishwa-portfolio.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -11,25 +11,24 @@
 
 ## 🌐 Live Site
 
-**[vishwa-portfolio.vercel.app](https://vishwa-portfolio.vercel.app)**  
+**[vishwa-portfolio.vercel.app](https://portfolio-vishwa2003.vercel.app/)**  
 *(Replace with your actual Vercel URL)*
 
 ---
 
 ## 📌 About
 
-This is my personal portfolio website — a single-page application showcasing my skills, projects, experience, and research as a Data Scientist. Built entirely with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies, fast loading.
+This is my personal portfolio website - a single-page application showcasing my skills, projects, experience, and research as a Data Scientist. Built entirely with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies, fast loading.
 
 ---
 
 ## ✨ Features
 
 - **Light / Dark theme** toggle with localStorage persistence
-- **Animated background** — aurora blobs, wave flow lines, 3D floating wireframe objects
-- **Highlight cursor effect** — soft glow follows mouse
-- **Contact form** powered by EmailJS — messages go directly to my inbox
-- **Fully responsive** — mobile, tablet, and desktop
-- **Scroll reveal animations** and animated skill bars
+- **Animated background** - aurora blobs, wave flow lines, 3D floating wireframe objects
+- **Highlight cursor effect** - soft glow follows mouse
+- **Contact form** powered by EmailJS - messages go directly to my inbox
+- **Fully responsive** - mobile, tablet, and desktop
 - **Photo frame** with rotating orbit rings and gradient border
 
 ---
@@ -52,7 +51,7 @@ This is my personal portfolio website — a single-page application showcasing m
 ```
 vishwa-portfolio/
 ├── index.html          # Main portfolio (single page)
-├── vishwa.jpg          # Profile photo (add your own)
+├── Hero Image.jpeg     # Profile photo (add your own)
 ├── README.md           # This file
 └── LICENSE             # MIT License
 ```
@@ -79,8 +78,8 @@ Or use VS Code Live Server for hot reload.
 |---|---|
 | **Email** | vishwava25072003@gmail.com |
 | **Phone** | +353 089 966 5446 |
-| **Location** | Maynooth, Co. Kildare, Ireland |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/) |
+| **Location** | Dublin, Ireland |
+| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vishwa2003/) |
 
 ---
 
